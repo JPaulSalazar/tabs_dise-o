@@ -1,12 +1,12 @@
 .header {
-    background-color: #e16c03;
+    background-color: $orange;
     position: relative;
     margin: 0 auto;
     h1 {
         margin: 0;
         text-align: left;
         font-size: 43px;
-        color: #ffffff;
+        color: $white;
         padding-top: 73px;
         padding-left: 77px; 
         padding-bottom: 59px;
