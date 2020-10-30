@@ -5,22 +5,6 @@
 
   /* TABS*/
 
-  .show {
-    background-color: #ffc99f;
-    border-bottom: 1px solid #ed9344;
-    color: #e16c03; }
-  
-  .hide {
-    display: none; }
+
   
   /*Footer*/
-  .footer {
-    height: 124px;
-    background-color: #e16c03;
-    position: relative;
-    margin: 0 auto; }
-  
-  .footer img {
-    position: absolute;
-    right: 170px;
-    top: -2px; }
