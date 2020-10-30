@@ -1,0 +1,48 @@
+.tabs {
+    margin-left: 248px;
+    margin-top: 255px; 
+}
+.tabs-list {
+    list-style-type: none;
+    margin: 0;
+    display: flex;
+    text-transform: uppercase; 
+}
+
+.tab-item {
+    font-size: 59px;
+    display: block;
+    padding: 10px 75px;
+    color: #ffffff;
+    text-decoration: none;
+    font-weight: bold;
+    background-color: #e16c03;
+}
+
+.tabs-text {
+    text-align: left;
+    margin-left: 288px;
+    margin-right: 288px;
+    border: 1px solid #ed9344;
+    background-color: #e16c03;
+    margin-bottom: 301px; 
+}
+.tabs-text-item{
+     h2 {
+        margin: 0px;
+        padding-top: 167px;
+        padding-left: 56px;
+        color: #ffffff;
+        font-weight: bold;
+        font-size: 80px; 
+    }
+    p {
+        padding-left: 56px;
+        padding-right: 46px;
+        color: #ffffff;
+        font-size: 41px; 
+    }
+    p+p+p{
+        padding-bottom: 89px;
+    }
+}
