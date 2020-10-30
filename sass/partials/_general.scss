@@ -1,0 +1,10 @@
+body {
+    margin: 0 0 0 0;
+    font-family: Arial, Helvetica, sans-serif; 
+}
+  
+  .clearfix::after {
+    content: "";
+    clear: both;
+    display: table; 
+}
